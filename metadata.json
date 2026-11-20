@@ -1,0 +1,6 @@
+{
+  "name": "CrashLab — Analyseur & Prédicteur Crash",
+  "description": "Plateforme web native d'observation par OCR et sélecteur DOM, base SQLite persistante, analyse statistique d'équité, prédiction Gradient Boosting et backtest sans biais pour jeux crash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
